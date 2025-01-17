@@ -1,0 +1,15 @@
+
+        canvas { border: 1px solid black; }
+        #mobileControls {
+            display: flex;
+            justify-content: center;
+            position: fixed;
+            bottom: 10px;
+            width: 100%;
+        }
+        .control-button {
+            font-size: 20px;
+            margin: 5px;
+            padding: 10px;
+        }
+    
